@@ -1,2 +1,1 @@
-# continuum_mechanics_notes
-Continuum Mechanics Notes
+# Continuum Mechanics Notes
